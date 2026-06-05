@@ -1,4 +1,4 @@
-# BenchCI — Landing Page
+# RagerDuty — Landing Page
 
 Static landing page for a **developer-first hardware test automation** startup ("GitHub Actions for hardware": cloud test racks, HIL simulation, regression dashboards). No build step, no dependencies — plain HTML/CSS/JS.
 
@@ -8,9 +8,9 @@ Edit the three values at the top of **`config.js`**:
 
 ```js
 const BRAND = {
-  companyName: "BenchCI",
-  domain: "benchci.example.com",
-  contactEmail: "hello@benchci.example.com"
+  companyName: "RagerDuty",
+  domain: "ragerduty.app",
+  contactEmail: "hello@ragerduty.app"
 };
 ```
 
